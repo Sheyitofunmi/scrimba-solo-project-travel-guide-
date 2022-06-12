@@ -1,0 +1,142 @@
+* {
+    margin:0px;
+    padding:0px;
+    
+}
+
+body {
+    background: #fff;
+    text-align: center;
+    width: 650px;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans','Roboto Condensed', sans-serif;
+    background-size: cover;
+    margin: 0px auto;
+    border: 1px solid blue;
+    border-radius: 1opx;
+
+
+}
+
+.hero {
+    background-image: url(images/paper3.jpg);
+    background-size: cover;
+    color: #f1faee;
+    width:650px;
+    height:343px;
+    font-size: 20px;
+    
+    
+
+}
+
+
+.hero:hover {
+    background-image: url(images/paper2.jpg);
+    font-size: 20px;
+    color: black;
+}
+
+#country {
+    padding-top: 120px;
+}
+
+#about {
+    padding-top: 20px;
+}
+
+section {
+    width: 650px;
+    height:343px;
+    background: #f1faee;
+    
+} 
+
+h3 {
+    font-weight: 900;
+    padding-top: 15px;
+    font-size: 30px;
+}
+
+
+.visits {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.visit {
+    margin:10px;
+    padding-top:40px;
+}
+
+
+.visit-pic {
+    width: 170px;
+    background-size: 
+    margin: 63px 0px 0px 80px;
+    border-radius: 60%;
+    
+}
+
+
+.food {
+    background: linear-gradient(#a8dadc,#3066be);
+    margin-top: 20px;
+    
+}
+
+.rice   {
+    padding: 20px 5px 5px 5px;
+
+}
+.meat {
+    padding: 5px;
+}
+.yam {
+    padding: 5px;
+
+
+}
+.por {
+    padding: 5px;
+
+}
+.ama {
+    padding: 5px;
+    
+}
+.pla {
+    padding: 5px;
+
+}
+footer {
+    background: #f1f1ee;
+    margin:  20px 70px;
+}
+
+
+.card {
+
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 30px auto;
+    background: #a8dadc;
+    box-shadow: 0px 6px 0px #1d3557;
+    border-radius: 10px
+    width: 70px;
+
+    
+}
+
+#card-pic {
+    width: 150px;
+    border-radius: 10px;
+
+
+
+    
+}
